@@ -1,4 +1,6 @@
 # Personal Loan Prediction
+The project use both Statistics method and Machine Learning method to predict whether customers of Thera Bankis buy loan offered by the bank. In this project, we find that Machine Learning model outperformed Logistic Regression (which is Statistics model). Based on the results, we can make suggestions to improve marketing strategy of the bank in order to make as highest profit as possible. 
+Problem description:
 Thera Bankis a US bank that has a growing customer base. The majority of these
 customers are liability customers (depositors) with varying sizes of deposits. The
 number of customers who are also borrowers (asset customers) is quite small, and the
@@ -19,5 +21,4 @@ As a Data scientist at Thera Bank have to build a model that will help the marke
 department to identify the potential customers who have a higher probability of
 purchasing the loan.
 Motivation : To understand Logistic regression and Decision tree and explore this
-algorthims using Sklearn, Statmodel, Roc-Auc Curve,Precision Curve,Sequential
-feature selection, hyperparamter tuning Decision tress and post pruning Decision trees
+algorthims using Sklearn, Statmodel, Roc-Auc Curve.
